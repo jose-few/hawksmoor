@@ -1,4 +1,4 @@
-# hawksmoor
+# Hawksmoor
 This is my attempt so far to create the required system.
 
 Customers are unique objects, and addresses are stored in an array attached to each unique customer object.
